@@ -4,7 +4,7 @@ A three-page Power BI dashboard that answers one question for a business spendin
 
 I built it to look at acquisition from three angles. Where do customers come from, which campaigns actually make money, and what kind of customers do we end up with?
 
-![Acquisition Overview](Dashboard Screenshots/Acquisition Overview.png)
+![Acquisition Overview](https://github.com/SamuelS2003/Marketing-and-Customer-Acquisition-Analytics/blob/e4cd948caae7e32593711f55a5b43592e75c43b1/Dashboard%20Screenshots/Acquisition%20Overview.png)
 
 ## The short version
 
